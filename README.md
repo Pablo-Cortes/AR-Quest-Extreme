@@ -1,2 +1,22 @@
-# AR-Quest-Extreme
-Una experiencia inmersiva de Realidad Aumentada (AR) desarrollada con Three.js y React. Utiliza la API de getUserMedia para el fondo de cámara y sensores de orientación para el seguimiento espacial en 360°. Incluye una versión monolítica en HTML puro para portabilidad total.
+# 🚀 AR Quest Extreme
+
+Un juego de Realidad Aumentada (AR) para navegadores móviles donde debes cazar figuras geométricas que aparecen en tu entorno real.
+
+## ✨ Características
+- 📱 **Mobile First**: Optimizado para Safari (iOS) y Chrome (Android).
+- 🎥 **Realidad Aumentada**: Fondo de cámara en tiempo real mediante WebRTC.
+- 🧊 **Motor 3D**: Renderizado de alto rendimiento usando **Three.js**.
+- 🧭 **Inmersión 360°**: Control mediante giroscopio y acelerómetro.
+- 💎 **Diseño Frosted Glass**: Interfaz moderna con efectos de desenfrenado y cristalinidad.
+- 📦 **Versión Monolítica**: Incluye un archivo `VRQuest.html` que funciona de forma independiente sin necesidad de instalación.
+
+## 🛠️ Tecnologías
+- Vite + React + TypeScript
+- Three.js
+- Tailwind CSS
+- Motion (para animaciones)
+
+## 🎮 Cómo jugar
+1. Abre el enlace en tu navegador móvil.
+2. Otorga permisos de **Cámara** y **Movimiento**.
+3. Mueve tu teléfono para buscar las figuras y tócalas para atraparlas antes de que se acabe el tiempo.
