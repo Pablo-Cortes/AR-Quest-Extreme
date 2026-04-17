@@ -8,7 +8,6 @@ Un juego de Realidad Aumentada (AR) para navegadores móviles donde debes cazar 
 - 🧊 **Motor 3D**: Renderizado de alto rendimiento usando **Three.js**.
 - 🧭 **Inmersión 360°**: Control mediante giroscopio y acelerómetro.
 - 💎 **Diseño Frosted Glass**: Interfaz moderna con efectos de desenfrenado y cristalinidad.
-- 📦 **Versión Monolítica**: Incluye un archivo `VRQuest.html` que funciona de forma independiente sin necesidad de instalación.
 
 ## 🛠️ Tecnologías
 - Vite + React + TypeScript
